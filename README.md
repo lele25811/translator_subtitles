@@ -10,10 +10,17 @@ Python script by lele25811 of subtitle translation for movies and TV series.
   
 # execute Linux
   <ul> 
-    <li> Download the file ''
+    <li> Download the file 'Subtitle_Translator_App.py'
     <li> Put the file.srt in the same folder
     <li> Launch terminal
-    <li> ./
+    <li> give a execute permission  ~$chmod u+x Subtitle_Translator_App.py
+    <li> ~$./Subtitle_Translator_App.py  
     <li> Follow the graphic interface guide
     <li> When the process will be finish will be create a new file with the traslated subtitles
   <lu>
+
+# execute Windows
+  Check in releases.
+
+# Note
+  For a 45 minute episode it takes about 4 minutes to translate.
