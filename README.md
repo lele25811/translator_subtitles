@@ -14,7 +14,7 @@ Python script by lele25811 of subtitle translation for movies and TV series.
             need only googletrans;
     <li> Subtitle_Translation_App.py: <br>
             need googletrans and tkinter;
-  <ul>
+  </ul>
           
 # Note
   For a 45 minute episode it takes about 4 minutes to translate.
