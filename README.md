@@ -19,8 +19,5 @@ Python script by lele25811 of subtitle translation for movies and TV series.
     <li> When the process will be finish will be create a new file with the traslated subtitles</li>
   </ul>
 
-# execute Windows
-  Check in releases.
-
 # Note
   For a 45 minute episode it takes about 4 minutes to translate.
